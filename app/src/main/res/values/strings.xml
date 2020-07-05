@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomImage_RestAPI</string>
+    <string name="image_id">Website Image id : </string>
+    <string name="app_Title">Random Image Box</string>
+</resources>
